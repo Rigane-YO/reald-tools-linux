@@ -10,4 +10,4 @@ Petit pack d'outils Linux créé par Reald.
 
 ## Installation (depuis GitHub)
 ```bash
-curl -sSL https://raw.githubusercontent.com/TON_USERNAME/reald-tools/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/Rigane-YO/reald-tools/main/install.sh | bash
