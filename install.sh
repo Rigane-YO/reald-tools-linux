@@ -4,7 +4,7 @@
 set -e
 REPO_RAW_BASE="https://raw.githubusercontent.com/Rigane-YO/reald-tools/main"
 
-TOOLS=("clean-system" "sys-health" "encrypt-dir")
+TOOLS=("clean-systeme" "sys-health" "encrypt-dir")
 
 echo "🚀 Installation de Reald Tools..."
 
